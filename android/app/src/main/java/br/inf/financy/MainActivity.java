@@ -1,4 +1,4 @@
-package com.financyapp;
+package br.inf.financy;
 
 import android.os.Build;
 import android.os.Bundle;

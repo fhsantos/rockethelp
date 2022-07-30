@@ -1,4 +1,4 @@
-package com.financyapp.newarchitecture;
+package br.inf.financy.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.financyapp.BuildConfig;
-import com.financyapp.newarchitecture.components.MainComponentsRegistry;
-import com.financyapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import br.inf.financy.BuildConfig;
+import br.inf.financy.newarchitecture.components.MainComponentsRegistry;
+import br.inf.financy.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
