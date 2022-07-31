@@ -10,12 +10,14 @@
       "@react-native-firebase/app"
     ],
     "android": {
+      "versionCode": 1,
       "package": "br.inf.financy",
       "googleServicesFile": "./google-services.json"
     },
     "ios": {
       "package": "br.inf.financy",
-      "googleServicesFile": "./GoogleService-info.plis"
+      "googleServicesFile": "./GoogleService-info.plis",
+      "buildNumber": "1.0.0"
     }
   }
 }
